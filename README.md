@@ -1,4 +1,4 @@
-<p align="center">Outputs:</p>
+<p>Outputs:</p>
 
 ![Homepage(Admin Panel)](https://user-images.githubusercontent.com/121250316/210884479-4170d886-37d5-4bb3-89f4-0035687d52ed.png)
 <p align="center">CMS (Content Management System) Homepage</p>
