@@ -1,10 +1,10 @@
-<p>Outputs:</p>
+<p align="center">Outputs:</p>
 
 ![Homepage(Admin Panel)](https://user-images.githubusercontent.com/121250316/210884479-4170d886-37d5-4bb3-89f4-0035687d52ed.png)
-<p>CMS (Content Management System) Homepage</p>
+<p align="center">CMS (Content Management System) Homepage</p>
 
 ![User Reg or Updation](https://user-images.githubusercontent.com/121250316/210884570-4bd4e0b3-d6a3-4d8b-ab34-08fe5a034428.png)
-<p>Creating and Updating Page</p>
+<p align="center">Creating and Updating Page</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
